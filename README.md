@@ -28,7 +28,7 @@ My writeups for the CTF:
   - [Kryptos Support](./web/kryptos-support/)
   - [BlinkerFluids](./web/blinker-fluids/)
 - Pwn
-  - [Added Space Pirate: Entrypoint](./pwn/space-pirate-entrypoint/)
+  - [Space Pirate: Entrypoint](./pwn/space-pirate-entrypoint/)
   - [Space pirate: Going Deeper](./pwn/space-pirate-going-deeper/)
 - Reversing
   - [WIDE](./reversing/wide/)
