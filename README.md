@@ -15,7 +15,7 @@ The CTF had challenges in the following categories:
 
 ## Summmary
 
-I had very limited time to play this CTF, but I was able to solve 6 out of 61 challenges. I solved challenges in the categories; `Web`, `Pwn` and `Reversing`.
+I had very limited time to play this CTF, but I was able to solve 7 out of 61 challenges. I solved challenges in the categories; `Web`, `Pwn`, `Reversing` and `Misc`.
 
 I have been trying to improve my binary explotation skills lately, so the `Pwn` challenges was fun for this CTF. The `Web` challenges were also good, because I got to do a few techniques that I haven't used much before.
 
@@ -32,6 +32,8 @@ My writeups for the CTF:
   - [Space pirate: Going Deeper](./pwn/space-pirate-going-deeper/)
 - Reversing
   - [WIDE](./reversing/wide/)
+- Misc
+  - [Compressor](./misc/compressor/)
 
 
 ## Certification Of Participation
